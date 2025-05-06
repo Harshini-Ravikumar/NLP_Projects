@@ -15,7 +15,7 @@ Analyze user reviews of the ChatGPT application and classify them as positive, n
 
 ---
 
-## 2. **Movie Recommendation System 🎥🤖**
+## 2. ** IMDB Movie Recommendation System 🎥🤖**
 
 **Overview:**  
 Scrape IMDb data (2024 movies) using Selenium to collect movie names and storylines, then use NLP techniques to recommend similar movies based on a given storyline.  
@@ -35,7 +35,7 @@ Detect fake news from Reddit post titles by classifying them as fake (1) or genu
 
 ---
 
-## 4. **News Article Categorization 📑📰**
+## 4. **Topic Modelling in News Articles 📑📰**
 
 **Overview:**  
 Automatically categorize news articles from *The Indian Express* into predefined categories like Business, Technology, Sports, etc.  
@@ -45,7 +45,7 @@ Automatically categorize news articles from *The Indian Express* into predefined
 
 ---
 
-## 5. **EdTech Feedback Validation 🎓💬**
+## 5. **My Zoom(EdTech) Feedback Validation model 🎓💬**
 
 **Overview:**  
 Validate whether user feedback in an EdTech app matches a dropdown reason (valid or invalid).  
