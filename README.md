@@ -30,7 +30,8 @@ Scrape IMDb data (2024 movies) using Selenium to collect movie names and storyli
 **Overview:**  
 Detect fake news from Reddit post titles by classifying them as fake (1) or genuine (0) using a machine learning model.  
 
-**Dataset:** Reddit posts.  
+**Dataset:** Reddit posts.
+**LINK** 'https://drive.google.com/drive/folders/1MU9hfay9LmU7JG3xIw6GMIA7MAwXXxSN?usp=sharing'
 **Key Tech:** Machine Learning, NLP, Fake News Detection.
 
 ---
