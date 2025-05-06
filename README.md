@@ -15,7 +15,7 @@ Analyze user reviews of the ChatGPT application and classify them as positive, n
 
 ---
 
-## 2. ** IMDB Movie Recommendation System 🎥🤖**
+## 2. **IMDB Movie Recommendation System 🎥🤖**
 
 **Overview:**  
 Scrape IMDb data (2024 movies) using Selenium to collect movie names and storylines, then use NLP techniques to recommend similar movies based on a given storyline.  
